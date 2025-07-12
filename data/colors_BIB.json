@@ -1,1 +1,14 @@
 
+{
+  "TEÓRICA": ["#4CAF50", "Teórica"],
+  "SOCIAL": ["#2196F3", "Social y política"],
+  "METODOLÓGICA": ["#FFC107", "Metodológica"],
+  "DOCUMENTAL": ["#00BCD4", "Documental"],
+  "TÉCNICA": ["#9C27B0", "Técnica"],
+  "OPTATIVA": ["#795548", "Optativa"],
+  "GESTIÓN": ["#FF5722", "Gestión"],
+  "TECNOLÓGICA": ["#3F51B5", "Tecnológica"],
+  "INSTITUCIONAL": ["#607D8B", "Institucional"],
+  "CUANTITATIVA": ["#009688", "Cuantitativa"],
+  "PRÁCTICA": ["#E91E63", "Práctica Profesional"]
+}
