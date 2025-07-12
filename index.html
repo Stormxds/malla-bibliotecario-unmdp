@@ -165,10 +165,12 @@
   <script src="https://kit.fontawesome.com/df883d94bd.js" crossorigin="anonymous"></script>
   <script type="text/template" data-template="tab-template1">
     <li><a class="nav-item nav-link" href="?m=${Link}"><span class="d-md-none">Malla </span>${Nombre}</a></li>
-<script>
-  window.location.href = "index.html?m=BIB";
+
+</body>
+    <script>
+  if (!location.search.includes("?m=")) {
+    window.location.href = "index.html?m=BIB";
+  }
 </script>
 
-  </script>
-</body>
 </html>
