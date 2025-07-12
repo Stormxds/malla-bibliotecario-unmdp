@@ -1,1 +1,33 @@
-
+{
+  "s1": [
+    ["Introducción a la Información y Comunicación", "BIB-101", 3, 1, "TEÓRICA", [], "A"],
+    ["Comunicación: Historia, Política y Sociedad I", "COM-102", 3, 2, "SOCIAL", [], "A"],
+    ["Teoría de la Lectura", "LEC-103", 3, 3, "TEÓRICA", [], "A"],
+    ["Metodología del Trabajo Intelectual Aplicada al Estudio de la Bibliotecología", "MET-104", 3, 4, "METODOLÓGICA", [], "A"]
+  ],
+  "s2": [
+    ["Fuentes de Información I", "FIN-105", 3, 1, "DOCUMENTAL", [], "B"],
+    ["Descripción Documental I", "DES-106", 3, 2, "TÉCNICA", [], "B"],
+    ["Organización del Conocimiento I", "ORG-107", 3, 3, "TÉCNICA", [], "B"],
+    ["Asignatura Optativa I", "OPT-108", 3, 4, "OPTATIVA", [], "B"]
+  ],
+  "s3": [
+    ["Gestión de Colecciones", "GES-201", 3, 1, "GESTIÓN", ["ORG-107"], "A"],
+    ["Organización del Conocimiento II", "ORG-202", 3, 2, "TÉCNICA", ["ORG-107"], "A"],
+    ["Descripción Documental II", "DES-203", 3, 3, "TÉCNICA", ["DES-106"], "A"],
+    ["Administración de Unidades de Información", "ADM-204", 3, 4, "GESTIÓN", [], "A"]
+  ],
+  "s4": [
+    ["Asignatura Optativa II", "OPT-209", 3, 1, "OPTATIVA", [], "B"],
+    ["Planeamiento y Programación de Servicios de Información", "PLAN-210", 3, 2, "GESTIÓN", ["ADM-204"], "B"],
+    ["Automatización de Servicios de Información I", "AUT-211", 3, 3, "TECNOLÓGICA", [], "B"],
+    ["Comunicación: Historia, Política y Sociedad II", "COM-212", 3, 4, "SOCIAL", ["COM-102"], "B"],
+    ["Práctica Profesionalizante I", "PRA-213", 3, 5, "PRÁCTICA", [], "B"]
+  ],
+  "s5": [
+    ["Organización de Unidades de Información", "ORG-301", 3, 1, "GESTIÓN", ["PLAN-210", "ADM-204"], "A"],
+    ["Taller de Tecnología", "TEC-302", 3, 2, "TECNOLÓGICA", ["AUT-211"], "A"],
+    ["Fuentes de Información II", "FIN-303", 3, 3, "DOCUMENTAL", ["FIN-105"], "A"],
+    ["Automatización de Servicios de Información II", "AUT-304", 3, 4, "TECNOLÓGICA", ["AUT-211"], "A"]
+  ],
+  "s6
